@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Amsterdam bans public adverts for meat and fossil fuels",
+      "description": "Local politicians say the move is in line with the Dutch capital's environmental targets.",
+      "url": "https://www.bbc.co.uk/news/articles/c9wejdekpwyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4140/live/d2daa120-4472-11f1-b545-b533bcf4cad2.jpg",
+      "publishedAt": "2026-05-04T06:22:21.2571361Z",
+      "content": "The Dutch capital is not starting from scratch.\r\nHaarlem, 18km (11 miles) to its west, was in 2022 the first city in the world to announce, external a broad ban on most meat advertising in public spa… [+1114 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Hantavirus: What we know about the Atlantic cruise ship outbreak",
+      "description": "While rare, the disease can be transmitted to humans through inhalation of airborne particles from dried rodent droppings.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r8j1l6j0go",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9b6/live/e5da45c0-477c-11f1-b55d-0f258dce1735.jpg",
+      "publishedAt": "2026-05-04T06:22:19.5231947Z",
+      "content": "Hantavirus refers to a strain of viruses carried by rodents, primarily transmitted to humans through inhalation of airborne particles from dried rodent droppings.\r\nInfections typically occur when the… [+718 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "What an empty car park says about one of the UK's poorest areas",
+      "description": "The BBC has been speaking to people living in one of England's poorest communities.",
+      "url": "https://www.bbc.co.uk/news/articles/cy816xdp226o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c629/live/ae0d1610-447d-11f1-88ff-575186ed76aa.jpg",
+      "publishedAt": "2026-05-04T05:22:26.929708Z",
+      "content": "Poor educational outcomes have also contributed to Sheppey's problems for many years. In 2023, teachers at the island's secondary school went on strike over concerns about their safety, because of po… [+1627 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Deepening fear for some in Iran as regime shows no sign of compromise",
+      "description": "Ordinary Iranians tell of worry about increased repression by authorities after the war is over.",
+      "url": "https://www.bbc.co.uk/news/articles/clyp6xxyvzyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5347/live/29dfb330-472e-11f1-b55d-0f258dce1735.jpg",
+      "publishedAt": "2026-05-04T01:22:21.3419392Z",
+      "content": "It is impossible to tell the scale of support for the regime across Iranian society. There are regular public displays of solidarity organised by its supporters. By contrast opposition rallies are ba… [+1827 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "GameStop offers to buy eBay for $56bn",
+      "description": "GameStop's chief executive Ryan Cohen told the Wall Street Journal that he sees potential to make eBay a much bigger rival to Amazon.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0759/live/6f3aea00-474a-11f1-b55d-0f258dce1735.jpg",
+      "publishedAt": "2026-05-04T01:22:19.8266932Z",
+      "content": "Cohen also said that GameStop has a commitment letter from TD Bank to provide around $20bn in debt to help finance the deal.\r\n\"There is nobody who is more qualified, based on my experience, to run th… [+569 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Newspaper headlines: 'No money for new weapons' and 'Cost of pint hits £10'",
+      "description": "A lack of defence funding and surging costs of a pint of beer are prominent stories on Monday's papers.",
+      "url": "https://www.bbc.co.uk/news/articles/c302njdend1o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af93/live/fbd06bf0-4742-11f1-b55d-0f258dce1735.jpg",
+      "publishedAt": "2026-05-04T00:37:14.7288794Z",
+      "content": "Image caption, In another potential rise in costs, parking fines could \"double\" under new proposals being considered by Labour, according to the Daily Mail. Ministers are reportedly looking into find… [+147 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Rudy Giuliani in critical condition in hospital",
+      "description": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman.",
+      "url": "https://www.bbc.co.uk/news/articles/c7941rgy4lyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a218/live/6e95d060-474a-11f1-b44b-c1f4e9f91820.jpg",
+      "publishedAt": "2026-05-04T00:22:21.3706153Z",
+      "content": "After the 2020 presidential election, Giuliani and other advisers traveled across the country accusing Trump's opponent - former President Joe Biden - of attempting to steal the election and making f… [+756 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "NHS cancer injection could mean patients spend hours less in hospital",
+      "description": "Thousands of patients will be offered a new injectable form of an immunotherapy drug that takes minutes.",
+      "url": "https://www.bbc.co.uk/news/articles/cx214vld41ko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afd2/live/a296b0b0-44b5-11f1-b55d-0f258dce1735.jpg",
+      "publishedAt": "2026-05-03T23:37:22.5254482Z",
+      "content": "Cancer can hide from the body's own immune system by producing proteins that send a \"stop signal\" telling our immune cells not to attack.\r\nSome scientists describe this as the disease hiding behind a… [+1126 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "The threat to summer holidays looming with jet fuel shortages",
+      "description": "What impact might shortages have on our summer holidays - and what could be done about it?",
+      "url": "https://www.bbc.co.uk/news/articles/c86d9v28qxxo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ee8/live/64014b70-4551-11f1-ac78-2112837ce2aa.jpg",
+      "publishedAt": "2026-05-03T23:22:24.729612Z",
+      "content": "Addressing the structural reasons why the UK is so dependent on imports, meanwhile, is likely to be trickier. Back in the 1970s, the country had 18 refineries - but that's now down to four.\r\n\"I think… [+2449 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "'I was trying to a save life,' man who intervened in Golders Green attack tells BBC",
+      "description": "Ashkan Asadian said he acted on the spur of the moment without thinking about the danger of the situation.",
+      "url": "https://www.bbc.co.uk/news/articles/c1529vgdvlgo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76db/live/591039d0-46d5-11f1-a1bb-13ca62b3ded8.jpg",
+      "publishedAt": "2026-05-03T21:37:22.5733557Z",
+      "content": "He said that as he intervened the two men fell on to the main road - lying side by side on the ground, the knife still in the attacker's hand.\r\n\"I just tried to keep him busy, get the knife,\" he said… [+1254 chars]"
+    }
+  ]
+}
